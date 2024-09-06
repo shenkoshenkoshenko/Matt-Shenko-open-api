@@ -39,6 +39,20 @@ body {
     font-size: 1rem;
 }
 
+.inputSection {
+    margin-top: 20%;
+}
+
+#fetch:hover {
+    color: red;
+    font-weight: bold;
+}
+
+#fetch:active {
+    background-color: red;
+    color: white;
+}
+
 /* **************************************media section */
 
 @media (min-width: 726px) {
