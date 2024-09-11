@@ -2,7 +2,7 @@ body {
     background-color: black;
     color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: .5rem;
+    font-size: .75rem;
     margin: 0;
 }
 
@@ -37,6 +37,20 @@ body {
 
 .heading {
     font-size: 1rem;
+}
+
+.inputSection {
+    margin-top: 20%;
+}
+
+#fetch:hover {
+    color: red;
+    font-weight: bold;
+}
+
+#fetch:active {
+    background-color: red;
+    color: white;
 }
 
 /* **************************************media section */
